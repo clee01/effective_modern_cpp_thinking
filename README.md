@@ -1,2 +1,2 @@
 # effective_modern_cpp_thinking
-读effective_modern_cpp有感
+* 部分参考自[他人项目](https://github.com/CnTransGroup/EffectiveModernCppChinese)
