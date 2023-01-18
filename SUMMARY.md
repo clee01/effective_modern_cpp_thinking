@@ -36,7 +36,7 @@
   * [5.6 理解引用折叠](5_rvalue_references_move_semantics_and_perfect_forwarding/28_understand_reference_collapsing.md)
   * [5.7 假定移动操作不存在，成本高，未被使用](5_rvalue_references_move_semantics_and_perfect_forwarding/29_assume_move_operations_not.md)
   * [5.8 熟悉完美转发失败的情况](5_rvalue_references_move_semantics_and_perfect_forwarding/30_familiarize_yourself_with_perfect_forwardind_failure.md)
-* [6 lambda表达式]
+* [6 lambda表达式](6_lambda_expressions/README.md)
   * [6.1 避免使用默认捕获模式](6_lambda_expressions/31_avoid_default_capture_modes.md)
   * [6.2 使用初始化捕获来移动对象到闭包中](6_lambda_expressions/32_use_init_capture_to_move_objects_into_closures.md)
   * [6.3 对auto&&形参使用decltype以便std::forward它们](6_lambda_expressions/33_use_decltype_on_auto_universal_ref.md)
